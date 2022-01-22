@@ -14,6 +14,7 @@ O prazo de entrega será até <DATA CORRENTE + 10 DIAS> .
 
 A escolha é livre e pode ser implementada em qualquer linguagem orientada a objetos.
 
+________________________________________________________________________________________________________________________________________________  
 *It refers to a small academic work carried out in the System Interaction discipline, where the implementation of a message code was requested.
 Where:
 1) a message with an "order number and value" must be sent to ActiveMQ;
